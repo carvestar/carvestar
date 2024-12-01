@@ -2,9 +2,9 @@
   
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=carvestar&fontAlign=50&fontAlignY=40&color=5265F5&fontColor=2E2EFE&fontSize=55)
 
-hi ~.~
+###### ha2
 
-## world
+## what
 <p>
 <img src="https://img.shields.io/badge/python-red?style=flat&logo=python&logoColor=721412"/>
 <img src="https://img.shields.io/badge/javaScript-orange?style=flat&logo=javaScript&logoColor=9C4121"/>
@@ -19,6 +19,14 @@ hi ~.~
 <img src="https://img.shields.io/badge/Github-white?style=flat&logo=Github&logoColor=221E1F"/>  
 </p>
 
+## world
+<a href="https://youtu.be/N5C5ZdvbHnY?si=1TMrgpDcowODoVQV"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+
 ## another world
 <a href="https://blog.naver.com/brn_sfever/223616477548" target="_blank">
-  <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+
+## GitHub stats <br>
+![carvestar's github stats](https://github-readme-stats.vercel.app/api?username=carvestar&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carvestar&layout=compact&theme=default)
+</div>
