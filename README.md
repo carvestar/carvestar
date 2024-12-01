@@ -41,7 +41,3 @@
 </div>
 
 <br>
-<br>
-<br>
-<div align=center>
-zzZ...
