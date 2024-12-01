@@ -4,6 +4,8 @@
 
 ###### ha2
 
+<br>
+
 ## what
 <p>
 <img src="https://img.shields.io/badge/python-red?style=flat&logo=python&logoColor=721412"/>
@@ -19,12 +21,19 @@
 <img src="https://img.shields.io/badge/Github-white?style=flat&logo=Github&logoColor=221E1F"/>  
 </p>
 
+<br>
+
 ## world
 <a href="https://youtu.be/N5C5ZdvbHnY?si=1TMrgpDcowODoVQV"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+
+<br>
 
 ## another world
 <a href="https://blog.naver.com/brn_sfever/223616477548" target="_blank">
   <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+
+<br>
+<br>
 
 ## GitHub stats <br>
 ![carvestar's github stats](https://github-readme-stats.vercel.app/api?username=carvestar&show_icons=true&theme=default)
