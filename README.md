@@ -22,14 +22,14 @@
 <img src="https://img.shields.io/badge/Github-white?style=flat&logo=Github&logoColor=221E1F"/>  
 </p>
 
-<br>
+<!-- <br>
 
-<p>$\huge{\color{#6580DD}Another\ World}$</p>
-<a href="https://blog.naver.com/brn_sfever/223616477548" target="_blank">
-  <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+ <p>$\huge{\color{#6580DD}Another\ World}$</p>
+ <a href="https://blog.naver.com/brn_sfever/223616477548" target="_blank">
+   <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 
 <br>
-<br>
+<br> -->
 <br>
 
 <p>$\huge{\color{#6580DD}ASAP}$</p>
